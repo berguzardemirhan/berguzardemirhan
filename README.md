@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bergüzar Demirhan</h1>
-<h3 align="center">I'm a Junior Developer</h3>
+# Hi there, I'm Azat ESER <img width="30px" height="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-- 🔭 I’m currently working on *Python*
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-- 🌱 I’m currently learning *Frontend Development*
+## I'm a Frontend Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/bergüzardemirhan](https://www.linkedin.com/in/berg%C3%BCzar-demirhan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bergüzardemirhan" height="30" width="40" /></a>
-</p>
+- 🌱 I am currently learning more about frontend development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/berg%C3%BCzar-demirhan)
+- 😄 Pronouns: He/Him ![](https://komarev.com/ghpvc/?username=berguzardemirhan&color=E42022)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berguzardemirhan/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berg%C3%BCzar-demirhan)
+
+[![Lenovo](https://img.shields.io/badge/Lenovo-%C4%B0deapad_3-999999?style=for-the-badge&logo=lenovo&logoColor=E42022)](#)
+
